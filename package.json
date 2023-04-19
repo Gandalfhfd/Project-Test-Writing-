@@ -1,0 +1,21 @@
+{
+  "name": "cypress-project",
+  "version": "1.0.0",
+  "description": "Project \"Test Writing\"",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nethmaw/Project-Test-Writing-.git"
+  },
+  "author": "Nethma Wimalasuriya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nethmaw/Project-Test-Writing-/issues"
+  },
+  "homepage": "https://github.com/Nethmaw/Project-Test-Writing-#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.32.3",
+    "cypress": "^12.10.0"
+  }
+}

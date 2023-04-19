@@ -1,0 +1,6 @@
+{
+    "include":[
+    "./node_modules/cypress",
+    "cypress/**/*.js"
+, "cypress/e2e/tests/Counter -checksTodos.spec.ts"    ]
+}
