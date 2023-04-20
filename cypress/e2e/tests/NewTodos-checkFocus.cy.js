@@ -1,4 +1,4 @@
-describe('Counter-Displays Correct Number of Todos', () => {
+describe('New Todos - checks element is focused', () => {
   before(function () {
     //Opens a private browsing window
     cy.visit('https://todomvc.com/examples/typescript-angular/#/', { private: true })
